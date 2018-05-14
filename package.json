@@ -1,6 +1,6 @@
 {
   "name": "npm-start-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A easy vue package",
   "main": "./dist/index.js",
   "scripts": {
