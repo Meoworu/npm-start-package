@@ -8,7 +8,7 @@ module.exports = {
     output: {  
         path: path.resolve(__dirname, './dist'),//输出路径，就是上步骤中新建的dist目录，  
         publicPath: '/dist/',  
-        filename: 'main.js',  
+        filename: 'index.js',  
         libraryTarget: 'umd',  
         umdNamedDefine: true  
     },  
