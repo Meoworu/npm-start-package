@@ -5,4 +5,5 @@ build/
 node_modules/  
 src/  
 test/  
-gulpfile.js 
+gulpfile.js
+webpack.config.js 

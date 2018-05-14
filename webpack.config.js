@@ -41,7 +41,7 @@ module.exports = {
                 test: /\.(png|jpg|gif|ttf|svg|woff|eot)$/,  
                 loader: 'url-loader',  
                 query: {  
-                    limit: 30000,  
+                    limit: 3000000,  //小于3000000使用base64编码
                     name: '[name].[ext]?[hash]' 
                 }  
             }  
